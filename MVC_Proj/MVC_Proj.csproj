@@ -7,4 +7,9 @@
     <UserSecretsId>b59b3c37-403b-4b95-b7ac-9bc33aef68ff</UserSecretsId>
   </PropertyGroup>
 
+  <ItemGroup>
+    <PackageReference Include="Dapper" Version="2.0.123" />
+    <PackageReference Include="MySql.Data" Version="8.0.30" />
+  </ItemGroup>
+
 </Project>
